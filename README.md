@@ -7,11 +7,11 @@ This project focuses on performing an **Exploratory Data Analysis (EDA)** on Net
 The project involves a comprehensive data analysis of Netflix’s dataset, focusing on the following steps:
 
 ### 1. **Data Upload and Cleaning**
-   - **CSV File Upload**: The user is prompted to upload a CSV file containing Netflix content data.
+   - **CSV File Upload**: Prompted to upload a CSV file containing Netflix content data.
    - **Data Cleaning**: 
      - Removal of any duplicate rows.
      - Handling of missing values by dropping rows with missing critical data (e.g., director, cast, or country).
-     - Conversion of the `date_added` column to a proper datetime format for analysis.
+   
 
 ### 2. **Exploratory Data Analysis (EDA)**
    The analysis covers the following key aspects of the dataset:
@@ -64,4 +64,4 @@ Through this analysis, the project highlights various insights such as:
 - `google.colab`: For file upload functionality when running the code in Google Colab.
 
 ## Conclusion
-This project provides an in-depth view of Netflix's content catalog, helping to identify trends, popular genres, and content distribution over time. By performing this analysis, we gain a better understanding of Netflix's offerings and the platform's content strategy.
+This project provides an in-depth view of Netflix's content catalog, helping to identify trends, popular genres, and content distribution over time. 
